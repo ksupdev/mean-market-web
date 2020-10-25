@@ -1,5 +1,7 @@
 # mean-market-web
 
+[Full Ref Thank you](https://github.com/shaheershukur/Market-Web-Application)
+
 [Video ref => Creating a Simple Web Application(Shopping Website) from Scratch [#1] | Angular + Material | Mock-up](https://www.youtube.com/watch?v=41aGgttr8UU&t=100s&ab_channel=ShaheerShukur)
 
 
@@ -44,6 +46,18 @@ CREATE src/app/nav/nav.component.css (193 bytes)
 ### Generate Dashboard
 ```
 ng generate @angular/material:dashboard home
+```
+
+[Video ref => Express Server Integration with Angular UI [#3] | Back End & Front End | Web Application](https://www.youtube.com/watch?v=dT1ID4q57fs&ab_channel=ShaheerShukur)
+
+### Generate Express
+```
+npm i -g express-generator
+```
+
+### Create market-service
+```
+express market-service
 ```
 
 
