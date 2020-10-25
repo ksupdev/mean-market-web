@@ -1,5 +1,8 @@
 # mean-market-web
 
+[Video ref "Creating a Simple Web Application(Shopping Website) from Scratch [#1] | Angular + Material | Mock-up"](https://www.youtube.com/watch?v=41aGgttr8UU&t=100s&ab_channel=ShaheerShukur)
+
+
 ### Create angular project
 ```
 ng new market
@@ -21,4 +24,4 @@ ng add @angular/material
 // Set up browser animations for Angular Material? => Y
 ```
 
-### REF : https://www.youtube.com/watch?v=41aGgttr8UU&t=100s&ab_channel=ShaheerShukur
+
