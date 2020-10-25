@@ -41,4 +41,9 @@ CREATE src/app/nav/nav.component.css (193 bytes)
 
 ```
 
+### Generate Dashboard
+```
+ng generate @angular/material:dashboard home
+```
+
 
