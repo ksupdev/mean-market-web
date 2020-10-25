@@ -58,6 +58,12 @@ npm i -g express-generator
 ### Create market-service
 ```
 express market-service
+
+// After generate you will install package with command bellow
+npm i
+
+// Run with command
+npm start app.js
 ```
 
 
